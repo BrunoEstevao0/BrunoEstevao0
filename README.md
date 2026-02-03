@@ -1,4 +1,4 @@
-<h1 align="center"> Bruno Estevao  Estudante de Engenharia de AI & ML | Engenharia de Software</h1>
+<h1 align="center">Estudante de Engenharia de AI & ML | Engenharia de Software</h1>
 
 
 
