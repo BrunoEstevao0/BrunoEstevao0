@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center"> Bruno Estevao  Estudante de Engenharia de AI & ML | Engenharia de Software</h1>
 
-###
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
