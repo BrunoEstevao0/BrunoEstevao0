@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-<h3 align="center">I'm Bruno AI/ML and Software Engenineer </h3>
+<h3 align="center">I'm Bruno Data Engenineer </h3>
 
 <div align="center">
 
